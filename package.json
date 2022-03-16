@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@material/button": "^13.0.0",
+    "@material/data-table": "^13.0.0",
     "@material/textfield": "^13.0.0",
     "vue": "^3.2.25"
   },
