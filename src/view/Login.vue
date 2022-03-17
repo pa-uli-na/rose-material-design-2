@@ -24,7 +24,7 @@
   <br />
 
   <div class="mdc-touch-target-wrapper">
-    <button class="mdc-button mdc-button--touch">
+    <button class="mdc-button mdc-button--touch mdc-button--raised">
       <span class="mdc-button__ripple"></span>
       <span class="mdc-button__touch"></span>
       <span class="mdc-button__label">Zaloguj</span>
