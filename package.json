@@ -11,7 +11,8 @@
     "@material/button": "^13.0.0",
     "@material/data-table": "^13.0.0",
     "@material/textfield": "^13.0.0",
-    "vue": "^3.2.25"
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.14"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.2.0",

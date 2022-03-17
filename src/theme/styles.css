@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+.p-xs {
+  padding: 0.25rem;
+}
+.p-sm {
+  padding: 0.5rem;
+}
+.p-md {
+  padding: 1rem;
+}

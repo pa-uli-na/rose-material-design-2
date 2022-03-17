@@ -37,21 +37,4 @@
       </section>
     </div>
   </header>
-  <main class="mdc-top-app-bar--fixed-adjust">
-    <router-view></router-view>
-  </main>
 </template>
-
-<script lang="ts">
-import { defineComponent } from "vue";
-import { useRouter } from "vue-router";
-
-export default defineComponent({
-  name: "Default",
-  setup() {
-    const version = "1.0.0";
-    const topbarsHeight = "56px";
-    return { version, topbarsHeight };
-  },
-});
-</script>
